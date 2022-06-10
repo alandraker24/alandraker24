@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alandraker24
 - 👀 I’m interested in Fullstack programming
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on Henry Challenge
+- 💞️ I’m looking to collaborate on Bedu 
 - 📫 How to reach me: alan.draker24@gmail.com
 
 <!---
